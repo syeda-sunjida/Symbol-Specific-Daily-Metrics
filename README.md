@@ -39,3 +39,4 @@ How It Works
 - Summary (high-level metrics)
 - Filtered Trades (all trades of the symbol for the logins)
 
+![image](https://github.com/user-attachments/assets/7dc60bc1-4e85-4559-b335-1d715a08cc75)
